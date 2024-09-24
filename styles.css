@@ -24,3 +24,9 @@ h1 {
     margin-bottom: 20px;
     font-weight: 300; /* Use Inter Light */
 }
+
+h2 {
+    font-size: 1rem;
+    margin-bottom: 20px;
+    font-weight: 400; /* Use Inter Light */
+}
