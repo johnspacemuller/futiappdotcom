@@ -27,7 +27,6 @@ h1 {
 
 h2 {
     font-size: 1rem;
-    margin-bottom: 20px;
-    font-weight: 400; /* Use Inter Extra Light */
+    font-weight: 200; /* Use Inter Extra Light */
     font-style: italic
 }
