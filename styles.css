@@ -16,7 +16,7 @@ body {
 
 .container {
     text-align: center;
-    color: white;
+    color: #0FE6B4;
 }
 
 h1 {
@@ -24,31 +24,3 @@ h1 {
     margin-bottom: 20px;
     font-weight: 300; /* Use Inter Light */
 }
-
-.shapes {
-    display: flex;
-    justify-content: center;
-    gap: 20px; /* Space between shapes */
-}
-
-.circle {
-    width: 80px;
-    height: 80px;
-    background-color: #20e0a4;
-    border-radius: 50%;
-}
-
-.square {
-    width: 80px;
-    height: 80px;
-    background-color: #0db7ff;
-}
-
-.triangle {
-    width: 0;
-    height: 0;
-    border-left: 40px solid transparent;
-    border-right: 40px solid transparent;
-    border-bottom: 80px solid #f72585;
-}
-
