@@ -21,8 +21,8 @@ body {
 
 h1 {
     font-size: 3rem;
-    margin-bottom: 20px;
-    font-weight: 100; /* Use Inter Semi-Bold */
+    margin-bottom: 5px;
+    font-weight: 600; /* Use Inter Semi-Bold */
 }
 
 h2 {
