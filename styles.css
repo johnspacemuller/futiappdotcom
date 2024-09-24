@@ -22,11 +22,12 @@ body {
 h1 {
     font-size: 3rem;
     margin-bottom: 20px;
-    font-weight: 300; /* Use Inter Light */
+    font-weight: 100; /* Use Inter Semi-Bold */
 }
 
 h2 {
     font-size: 1rem;
     margin-bottom: 20px;
-    font-weight: 400; /* Use Inter Light */
+    font-weight: 400; /* Use Inter Extra Light */
+    font-style: italic
 }
